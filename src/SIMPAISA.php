@@ -195,9 +195,9 @@ class SIMPAISA {
 
 }
 
-$testObject = new simpaisa();
+// $testObject = new simpaisa();
 
-$testObject->wallet_initiate(1000004,100007,123456,3482423523,0,1 );
+// $testObject->wallet_initiate(1000004,100007,123456,3482423523,0,1 );
 // $testObject->wallet_verify(1000004,100007,123456,3482423523,0,1,8989);
 
 
